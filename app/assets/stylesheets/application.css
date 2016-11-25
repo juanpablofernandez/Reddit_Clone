@@ -17,3 +17,6 @@
 a, a:active, a:hover {
     text-decoration: none
 }
+.navbar {
+    border-radius: 0;
+}
